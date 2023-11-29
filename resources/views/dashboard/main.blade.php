@@ -11,10 +11,11 @@
             <input type="date" id="date" name="date"><br>
             <button type="submit">Išsaugoti</button><br> 
         </form>
+        <h1>Aloha</h1>
     </div>
     {{-- List of added notes --}}
     <div class="right">
-        
+
     </div>
 
 
